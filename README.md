@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 
-<br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorabang&layout=compact"><br><br><img src="https://github-readme-stats.vercel.app/api?username=dorabang&show_icons=true">
+<br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorabang&layout=compact">
 
 <br>
 
